@@ -1,4 +1,4 @@
-# crud-dotnet
+# WEB FORMS com CRUD em .NET
 Projeto em C#.NET visando fazer um CRUD com tela e backend
 
 CHEKLIST para executar o projeto 
